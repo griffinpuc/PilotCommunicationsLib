@@ -1,0 +1,9 @@
+C:\Users\griff\Workspace\pilotcommslibrary\PilotCommsLib\PilotCommsLib\bin\Debug\netstandard2.0\PilotCommsLib.deps.json
+C:\Users\griff\Workspace\pilotcommslibrary\PilotCommsLib\PilotCommsLib\bin\Debug\netstandard2.0\PilotCommsLib.dll
+C:\Users\griff\Workspace\pilotcommslibrary\PilotCommsLib\PilotCommsLib\obj\Debug\netstandard2.0\PilotCommsLib.csprojAssemblyReference.cache
+C:\Users\griff\Workspace\pilotcommslibrary\PilotCommsLib\PilotCommsLib\obj\Debug\netstandard2.0\PilotCommsLib.AssemblyInfoInputs.cache
+C:\Users\griff\Workspace\pilotcommslibrary\PilotCommsLib\PilotCommsLib\obj\Debug\netstandard2.0\PilotCommsLib.AssemblyInfo.cs
+C:\Users\griff\Workspace\pilotcommslibrary\PilotCommsLib\PilotCommsLib\bin\Debug\netstandard2.0\PilotCommsLib.pdb
+C:\Users\griff\Workspace\pilotcommslibrary\PilotCommsLib\PilotCommsLib\obj\Debug\netstandard2.0\PilotCommsLib.csproj.CoreCompileInputs.cache
+C:\Users\griff\Workspace\pilotcommslibrary\PilotCommsLib\PilotCommsLib\obj\Debug\netstandard2.0\PilotCommsLib.dll
+C:\Users\griff\Workspace\pilotcommslibrary\PilotCommsLib\PilotCommsLib\obj\Debug\netstandard2.0\PilotCommsLib.pdb
